@@ -12,7 +12,7 @@ You can send emails on terminal by typing:
 
 **list_file:** A text file containing list of emails seperated by new line.
 
-**mail_file:** This is also a text file containing subject and mail body with such form:
+**mail_file:** File containing subject and mail body in such form:
 
 
     important!!!
